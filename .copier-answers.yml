@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.8
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: matthew.cooper@pobox.com
+author_name: Matthew Cooper
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: todo_highlight
+project_short_description: A JupyterLab extension for highlighting TODOs.
+python_name: todo_highlight
+repository: https://github.com/mkcmkc/jupyter-todo-highlight
+test: false
+
